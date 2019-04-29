@@ -1,4 +1,8 @@
 Solving a maze
+
+To run execute the jar from the command line with the path to one of the test mazes in the resource folder as an argument. Here is an example:
+
+java -jar Gentrack Maze Technical Test V5 - Vincent Yeadon.jar "C:\Users\bbtvi\Documents\MazeSolver\src\main\resources\Samples\sparse_large.txt"
 ==============
 
 The idea here is to write a program to solve simple mazes. The mazes are given in 
